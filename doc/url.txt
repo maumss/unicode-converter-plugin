@@ -1,0 +1,4 @@
+Source repository:
+  git@github.com:maumss/unicode-converter-plugin.git
+	https://github.com/maumss/unicode-converter-plugin.git
+	https://github.com/maumss/unicode-converter-plugin
