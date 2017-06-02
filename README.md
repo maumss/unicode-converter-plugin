@@ -12,12 +12,12 @@ Go to `Tools > Plugins > Downloaded Intalled > Add Plugins...` and add the `unic
 
 ## Usage
 
-Just right click over a text and choose `Convert to Unicode`. 
+Just right click over a text and choose `Convert to Unicode`.
 
 - Convert any character on source file
 
 ## Credits
-Mauricio Soares da Silva - [maumss@users.noreply.github.com](mailto:maumss@users.noreply.github.com)
+[Mauricio Soares da Silva](mailto:maumss.git@gmail.com).
 
 ## License
 
